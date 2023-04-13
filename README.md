@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 first visit the home page via here and from there only 
 https://home-beonbudget.netlify.app/
-To directly viosit my App, click here
+
+To directly visit my App, click here
 https://beonbudget.netflify.app/
 
 ## Available Scripts
