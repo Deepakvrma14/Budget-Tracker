@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# View Live
+
+first visit the home page via here and from there only 
+https://home-beonbudget.netlify.app/
+To directly viosit my App, click here
+https://beonbudget.netflify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
